@@ -1,0 +1,27 @@
+[
+    {
+      "device_type": "Pacemaker",
+      "device_name": "Azure",
+      "device_model_number": "XTSR01"
+    },
+    {
+      "device_type": "ICD",
+      "device_name": "Evera XT DR",
+      "device_model_number": "DDBB1D1"
+    },
+    {
+      "device_type": "Pacemaker",
+      "device_name": "Advisa MRI",
+      "device_model_number": "A3DR01"
+    },
+    {
+      "device_type": "ICD",
+      "device_name": "Cobalt XT",
+      "device_model_number": "CD1357-36Q"
+    },
+    {
+      "device_type": "Pacemaker",
+      "device_name": "Kappa 700",
+      "device_model_number": "KDR701"
+    }
+]
